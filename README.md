@@ -6,3 +6,5 @@ I began by following a tutorial on Haxeflixels website on how to create a simple
 In about two months of work I ended up with, "SavemissX" a 2d-platformer with many different features such as: double jumping, climbing, running, 5 unique attacks & animations and a power up feature called "RAGE". It also features 2 kinds of enemies, one flying, one grounded, 7 different stages with 3 different backgrounds.
 
 Working with the game I learned a lot about coding that I had only vaguely understood in the past. Using that new experience allowed me to keep finding new solutions to problems, which sort of "unlocked" new things I could add into my game, like powerups and new attacks, which was like a game in it of itself.
+
+You can find all the code in the "source" folder
